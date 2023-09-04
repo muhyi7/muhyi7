@@ -5,5 +5,5 @@
 - 📫 You can email me at muhyinuris197703@gmail.com
 
 ## Github Performance
-![github stats](https://github-readme-stats.vercel.app/api?username=hakimlutfi46&show_icons=true&theme=tokyonight)
-![github top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=hakimlutfi46&layout=compact&theme=tokyonight&langs_count=8)
+![github stats](https://github-readme-stats.vercel.app/api?username=muhyi7&show_icons=true&theme=tokyonight)
+![github top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=muhyi7&layout=compact&theme=tokyonight&langs_count=8)
