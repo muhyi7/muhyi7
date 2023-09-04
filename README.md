@@ -1,6 +1,6 @@
 - 👋 Assalamualaikum...Hi, I’m @muhyi7
-- 👀 I’m interested in Programming,design and anime
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in Programming,design and animation
+- 🌱 I’m currently learning Kotlin & Javascript
 - 💞️ I’m looking to collaborate on Pro Programmer
 - 📫 You can email me at muhyinuris197703@gmail.com
 
