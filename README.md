@@ -7,7 +7,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=muhyi7&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=muhyi7&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=muhyi7&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?muhyi7" frameborder="0"></iframe>)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=muhyi7&theme=radical&no-frame=false&no-bg=true&margin-w=4)
