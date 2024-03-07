@@ -9,7 +9,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=muhyi7&theme=react&hide_border=false)<br/>
 ![](https://ionicabizau.github.io/github-profile-languages/api.html?muhyi7)<br/>
 ## GitHub Profile Languages
-You can view your GitHub profile languages by clicking [here](https://ionicabizau.github.io/github-profile-languages/api.html?muhyi7).
+You can view my GitHub profile languages by clicking [here](https://ionicabizau.github.io/github-profile-languages/api.html?muhyi7).
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=muhyi7&theme=radical&no-frame=false&no-bg=true&margin-w=4)
